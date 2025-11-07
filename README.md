@@ -49,13 +49,7 @@ It’s a minimal, responsive, and visually appealing showcase that combines aest
 
 ## 🚀 How to View / Run
 
-### **Option 1: View Live**
+### View Live**
 Once published via **GitHub Pages**, visit:
-> 🌐 `https://<your-username>.github.io/skills-portfolio/`
+> 🌐 (https://surya63023.github.io/skills-portfolio-html-css/)
 
-*(Replace `<your-username>` with your GitHub username.)*
-
-### **Option 2: Run Locally**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/skills-portfolio.git
